@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/prakash_updated_portfolio/static/css/main.29214368.css",
+    "main.js": "/prakash_updated_portfolio/static/js/main.2e09025b.js",
+    "static/media/burger.jpg": "/prakash_updated_portfolio/static/media/burger.80db61ba0443daa7fb83.jpg",
+    "static/media/realestate.jpg": "/prakash_updated_portfolio/static/media/realestate.ed1307054494f6c1403f.jpg",
+    "static/media/blockchain.jpg": "/prakash_updated_portfolio/static/media/blockchain.28ecf63614fee2140936.jpg",
+    "static/media/netflix.jpg": "/prakash_updated_portfolio/static/media/netflix.64ea66389b1c188416ed.jpg",
+    "static/media/dataanalytics.jpg": "/prakash_updated_portfolio/static/media/dataanalytics.fdfdb554eccb1df35676.jpg",
+    "static/media/scorekeeper.png": "/prakash_updated_portfolio/static/media/scorekeeper.91c706d35f8de19df7fc.png",
+    "static/media/Dahboard.png": "/prakash_updated_portfolio/static/media/Dahboard.421701e05c8f029b0416.png",
+    "static/media/bootstrap.png": "/prakash_updated_portfolio/static/media/bootstrap.36241e83375e5009aaeb.png",
+    "static/media/react.png": "/prakash_updated_portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/logo1.png": "/prakash_updated_portfolio/static/media/logo1.7ed42caf1761f7568a18.png",
+    "static/media/github.png": "/prakash_updated_portfolio/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/logo3.png": "/prakash_updated_portfolio/static/media/logo3.acb21ad5135f9461b20f.png",
+    "static/media/html.png": "/prakash_updated_portfolio/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/prakash_updated_portfolio/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/prakash_updated_portfolio/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/firebase.png": "/prakash_updated_portfolio/static/media/firebase.209703cedf1b1a96bc52.png",
+    "static/media/javascript.png": "/prakash_updated_portfolio/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/prakash_updated_portfolio/index.html",
+    "main.29214368.css.map": "/prakash_updated_portfolio/static/css/main.29214368.css.map",
+    "main.2e09025b.js.map": "/prakash_updated_portfolio/static/js/main.2e09025b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29214368.css",
+    "static/js/main.2e09025b.js"
+  ]
+}
